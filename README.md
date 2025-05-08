@@ -1,12 +1,12 @@
-# 🗳️ lol-governance-agent
+# 🗳️ buy-governance-agent
 
-**Autonomous DAO voting agent** for Living On Logic — monitors proposals, applies policy logic, and votes on-chain or via Snapshot.
+**Autonomous DAO voting agent** — monitors proposals, applies policy logic, and votes on-chain or via Snapshot.
 
 ---
 
 ## 🤖 Overview
 
-`lol-governance-agent` enables automated DAO participation through programmable policy scripts. It supports on-chain governance systems and off-chain Snapshot voting for DAOs running across EVM chains.
+`buy-governance-agent` enables automated DAO participation through programmable policy scripts. It supports on-chain governance systems and off-chain Snapshot voting for DAOs running across EVM chains.
 
 This agent can:
 
@@ -55,8 +55,8 @@ Strategies can be keyword-based, metadata-aware, or externalized (LLM prompt, of
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/LivingOnLogic/lol-governance-agent.git
-cd lol-governance-agent
+git clone https://github.com/buyproject/buy-governance-agent.git
+cd buy-governance-agent
 npm install
 npm run dev
 ```
